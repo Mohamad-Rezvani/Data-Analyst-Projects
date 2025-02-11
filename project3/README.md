@@ -4,7 +4,7 @@
 This project analyzes the AtliQ Motors sales in India.
 
 ## SQL File
-- [project1.sql](project1.sql)
+- [AtliQ Motors.sql](atliq_motors.sql)
 
 ## Tableau Visualization
 - [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/AtliQMotors/Dashboard1)
