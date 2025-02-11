@@ -13,7 +13,7 @@ projects.
 ### [Project 2: House Prices](project2/)
 - **Description**: Segmented customers based on purchasing behavior.
 - **SQL File**: [House_Prices.sql](Project2/house_prices.sql)
-- **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/...)
+- **Tableau Visualization**: [View on Tableau Public]([https://public.tableau.com/...](https://public.tableau.com/app/profile/arya.rezvani/viz/houselisting/mapdashboard))
 
 ### [Project 3: AtliQ Motors sales](project3/)
 - **Description**: Optimized inventory levels using historical data.
