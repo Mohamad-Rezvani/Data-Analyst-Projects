@@ -17,5 +17,5 @@ projects.
 
 ### [Project 3: AtliQ Motors sales](project3/)
 - **Description**: This project analyzes the AtliQ Motors sales in India.
-- **SQL File**: [AtliQ Motors.sql](Project3/atliq_motors.sql)
+- **SQL File**: [AtliQ Motors.sql](project3/atliq_motors.sql)
 - **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/AtliQMotors/Dashboard1)
