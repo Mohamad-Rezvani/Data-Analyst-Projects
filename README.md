@@ -16,6 +16,6 @@ projects.
 - **Tableau Visualization**: [View on Tableau Public]([https://public.tableau.com/...](https://public.tableau.com/app/profile/arya.rezvani/viz/houselisting/mapdashboard))
 
 ### [Project 3: AtliQ Motors sales](project3/)
-- **Description**: Optimized inventory levels using historical data.
+- **Description**: This project analyzes the AtliQ Motors sales in India.
 - **SQL File**: [AtliQ Motors.sql](Project3/atliq_motors.sql)
 - **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/AtliQMotors/Dashboard1)
