@@ -11,7 +11,7 @@ projects.
 - **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/FoodDeliveryDashboard_17382856202870/Dashboard1)
 
 ### [Project 2: House Prices](project2/)
-- **Description**: Segmented customers based on purchasing behavior.
+- **Description**: This project analyzes the state of housing affordability in southern Canada.
 - **SQL File**: [House Prices.sql](Project2/house_prices.sql)
 - **Tableau Visualization**: [View on Tableau Public]([https://public.tableau.com/...](https://public.tableau.com/app/profile/arya.rezvani/viz/houselisting/mapdashboard))
 
