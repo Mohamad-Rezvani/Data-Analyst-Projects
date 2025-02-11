@@ -7,7 +7,7 @@ projects.
 
 ### [Project 1: Food Delivery](project1/)
 - **Description**: Analyzed sales data to identify trends and top-performing products.
-- **SQL File**: [food_delivery.sql](food_delivery.sql)
+- **SQL File**: [food_delivery.sql](project1/food_delivery.sql)
 - **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/...)
 
 ### [Project 2: House Prices](project2/)
