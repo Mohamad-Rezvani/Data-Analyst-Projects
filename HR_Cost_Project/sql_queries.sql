@@ -1,9 +1,3 @@
-select *
-from employee;
-
-select *
-from hr_costs;
-
 -- cleaning the date columns
 
 SELECT 
@@ -85,8 +79,4 @@ from
 	hr_costs h
 join 
 	num_of_employees n on h.department = n.department and h.year = n.hire_date_year;
-
-
-
-
 
