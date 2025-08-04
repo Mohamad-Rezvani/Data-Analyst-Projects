@@ -19,3 +19,9 @@ projects.
 - **Description**: This project analyzes the AtliQ Motors sales in India.
 - **SQL File**: [AtliQ Motors.sql](project3/atliq_motors.sql)
 - **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/AtliQMotors/Dashboard1)
+
+### [Project: HR Cost]([project3/](https://github.com/Mohamad-Rezvani/Data-Analyst-Projects/tree/main/HR_Cost_Project))
+- **Description**: This project analyzes employee attrition trends and HR cost distribution across departments and age groups.
+- **SQL File**: [HR_Cost.sql](https://github.com/Mohamad-Rezvani/Data-Analyst-Projects/blob/main/HR_Cost_Project/sql_queries.sql)
+- **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/HRProject_17530470251710/Dashboard1)
+
