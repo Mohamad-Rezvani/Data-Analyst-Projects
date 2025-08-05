@@ -31,6 +31,6 @@ projects.
 - **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/expenseretail/Dashboard1)
 
 ### [Project: Customer Profitability](Customer_Profitability/)
-- **Description**: This project analyzes Customer satisfaction and Delivery performance.
+- **Description**: This project analyzes customer-level profitability to identify high-value clients and optimize business performance.
 - **SQL File**: [Customer_Profitability.sql](Customer_Profitability/Customer_Profitability.sql)
 - **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/customerprofitability_17542890049150/overview)
