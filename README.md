@@ -30,7 +30,7 @@ projects.
 - **SQL File**: [expense_retail.sql](expense_retail/expense_retail.sql)
 - **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/expenseretail/Dashboard1)
 
-### [Project: Customer Profitability](Customer_Profitability/)
+### [Project: Customer Profitability](customer_profitability/)
 - **Description**: This project analyzes customer-level profitability to identify high-value clients and optimize business performance.
 - **SQL File**: [Customer_Profitability.sql](customer_profitability/customer_profitability.sql)
 - **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/customerprofitability_17542890049150/overview)
