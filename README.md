@@ -25,13 +25,12 @@ projects.
 - **SQL File**: [HR_Cost.sql](https://github.com/Mohamad-Rezvani/Data-Analyst-Projects/blob/main/HR_Cost_Project/sql_queries.sql)
 - **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/HRProject_17530470251710/Dashboard1)
 
-# Project: Expense Retail
+### [Project 1: Food Delivery](project1/)
+- **Description**: This project analyzes Customer satisfaction and Delivery performance.
+- **SQL File**: [food delivery.sql](project1/food_delivery.sql)
+- **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/FoodDeliveryDashboard_17382856202870/Dashboard1)
 
-## Description
-This project analyzes retail expenses across stores and categories to uncover overspending trends and support better budget decisions.
-
-## SQL File
-- [expense_retail.sql](expense_retail.sql)
-
-## Tableau Visualization
-- [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/expenseretail/Dashboard1)
+### [Project 1: Food Delivery](project1/)
+- **Description**: This project analyzes Customer satisfaction and Delivery performance.
+- **SQL File**: [food delivery.sql](project1/food_delivery.sql)
+- **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/FoodDeliveryDashboard_17382856202870/Dashboard1)
