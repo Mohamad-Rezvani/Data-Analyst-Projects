@@ -28,7 +28,7 @@ projects.
 ### [Project : Expense Retail](expense_retail/)
 - **Description**: This project analyzes retail expenses across stores and categories to uncover overspending trends and support better budget decisions.
 - **SQL File**: [expense_retail.sql](expense_retail/expense_retail.sql)
-- **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/FoodDeliveryDashboard_17382856202870/Dashboard1)
+- **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/expenseretail/Dashboard1)
 
 ### [Project 1: Food Delivery](project1/)
 - **Description**: This project analyzes Customer satisfaction and Delivery performance.
