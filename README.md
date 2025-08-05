@@ -33,4 +33,4 @@ projects.
 ### [Project: Customer Profitability](Customer_Profitability/)
 - **Description**: This project analyzes Customer satisfaction and Delivery performance.
 - **SQL File**: [Customer_Profitability.sql](Customer_Profitability/Customer_Profitability.sql)
-- **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/FoodDeliveryDashboard_17382856202870/Dashboard1)
+- **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/customerprofitability_17542890049150/overview)
