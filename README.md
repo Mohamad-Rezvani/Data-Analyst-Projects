@@ -30,7 +30,7 @@ projects.
 - **SQL File**: [expense_retail.sql](expense_retail/expense_retail.sql)
 - **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/expenseretail/Dashboard1)
 
-### [Project: Customer Profitability](project1/)
+### [Project: Customer Profitability](Customer_Profitability/)
 - **Description**: This project analyzes Customer satisfaction and Delivery performance.
-- **SQL File**: [food delivery.sql](project1/food_delivery.sql)
+- **SQL File**: [Customer_Profitability.sql](Customer_Profitability/Customer_Profitability.sql)
 - **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/FoodDeliveryDashboard_17382856202870/Dashboard1)
