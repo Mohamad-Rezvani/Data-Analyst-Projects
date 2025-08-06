@@ -34,3 +34,8 @@ projects.
 - **Description**: This project analyzes customer-level profitability to identify high-value clients and optimize business performance.
 - **SQL File**: [Customer_Profitability.sql](customer_profitability/customer_profitability.sql)
 - **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/customerprofitability_17542890049150/overview)
+
+### [Project: Retail Expense Overview](Retail_Expense_Overview/)
+- **Description**: Visualized and analyzed retail spending trends to uncover cost-saving opportunities using Excel.
+- **EXCEL Screenshots**: [Screenshots](https://github.com/aryarezvani79/Data-Analyst-Projects/tree/main/Retail_Expense_Overview/screenshots)
+- **Tableau Visualization**: [View on Tableau Public](https://public.tableau.com/app/profile/arya.rezvani/viz/RetailExpenseOverview/Dashboard1)
